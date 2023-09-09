@@ -1,2 +1,2 @@
 # Nba_Analyse
-Web Scraping Nba Games Details and by using Pandas and PYQT5
+Web Scraping Nba Games Statistics by using Pandas and PYQT5
